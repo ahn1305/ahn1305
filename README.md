@@ -20,7 +20,7 @@
 
 * High school student
 * Self-Made Webdeveloper and Programmer 
-* currently working on expanding my blog community
+* currently working in making a webapp for a startup
 * learning Python and Webdevelopment
 * looking to collaborate on any Django projects
 * Ask me about anything, I'll be happy to help.
