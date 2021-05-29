@@ -1,5 +1,5 @@
 # [Ashwin](https://flow.page/ahn1305)
-<b>Python | Django | HTML | CSS</b>
+<b>PYTHON | DJANGO | HTML | CSS</b>
 
 ![alt text](https://github.com/ahn1305/ahn1305/blob/main/000.png)
 
