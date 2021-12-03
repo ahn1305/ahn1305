@@ -24,6 +24,7 @@
 * learning Python and Webdevelopment
 * looking to collaborate on any Django projects
 * Ask me about anything, I'll be happy to help.
+* Private repo's - 3 (live site files)
 * Join my [Blog Community](https://stddev.pythonanywhere.com/)
 * Click [here](https://stddev.pythonanywhere.com/about/) to know more about me
 * 😄 Pronouns: He/him
