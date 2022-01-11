@@ -18,7 +18,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <h3> Iam <a href = "https://flow.page/ahn1305">Ashwin.B</a>, Iam a </h3>
 
-* High school student
+* Undergraduate B.TECH CSE Student
 * Self-Made Webdeveloper and Programmer 
 * currently working on learning full stack web development
 * learning Python and Webdevelopment
