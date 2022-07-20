@@ -13,6 +13,8 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/GeeksforGeeks-darkgreen.svg?&style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />][GeeksforGeeks]
 [<img height="30" src="https://github.com/ahn1305/ahn1305/blob/main/Front.png" />][stddev community]
+[<img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
+
 
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
@@ -61,9 +63,9 @@ You can find the more posts in my [Blog](https://thdjangoblog.pythonanywhere.com
 ## My Articles on Medium 🌱
 ### Here are some of those:
 
-- [Installing python in windows](https://ahnashwin1305.medium.com/installing-python3-in-windows-65e565bcc618)
 - [How to hack chrome’s T-rex game with Java script.](https://ahnashwin1305.medium.com/how-to-hack-chromes-t-rex-game-with-java-script-d4abddc4e2b4)
 - [View saved WiFi Passwords in Ubuntu and Windows](https://ahnashwin1305.medium.com/view-saved-wifi-passwords-in-ubuntu-and-windows-4e3fcec59e66)
+- [Using terminal inside sublime text](https://ahnashwin1305.medium.com/using-terminal-inside-sublime-text-a42859e0c66b)
 
 You can find the other articles [here](https://linktr.ee/ahn_1305).
 </td></tr></table>
@@ -76,4 +78,5 @@ You can find the other articles [here](https://linktr.ee/ahn_1305).
 [linkedin]: https://www.linkedin.com/in/ashwin-babu-261032202/
 [GeeksforGeeks]: https://auth.geeksforgeeks.org/user/ahnashwin1305/articles
 [stddev community]: https://stddev.pythonanywhere.com
+[Instagram]: https://www.instagram.com/ashwin_jahseh
 
