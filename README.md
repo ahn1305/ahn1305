@@ -1,5 +1,5 @@
 # [Ashwin](https://flow.page/ahn1305)
-<b>PYTHON | DJANGO | HTML | CSS</b>
+<b>PYTHON | DJANGO | FLASK | HTML | CSS | BOOTSTRAP | JS</b>
 
 ![alt text](https://github.com/ahn1305/ahn1305/blob/main/000.png)
 
@@ -17,14 +17,15 @@
 
 
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hey People! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <h3> Iam <a href = "https://flow.page/ahn1305">Ashwin.B</a>, Iam a </h3>
 
 * Undergraduate B.TECH CSE Student
-* Self-Made Webdeveloper and Programmer 
+* Self-Made Developer
+* Freelancer
 * currently working on learning full stack web development
 * learning Python and Webdevelopment
-* looking to collaborate on any Django projects
+* looking to collaborate on any Django and Flask Projects
 * Ask me about anything, I'll be happy to help.
 * Private repo's - 3 (live site files)
 * Join my [Blog Community](https://stddev.pythonanywhere.com/)
