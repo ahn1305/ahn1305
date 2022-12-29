@@ -14,7 +14,7 @@
 [<img height="30" src="https://img.shields.io/badge/GeeksforGeeks-darkgreen.svg?&style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />][GeeksforGeeks]
 [<img height="30" src="https://github.com/ahn1305/ahn1305/blob/main/Front.png" />][stddev community]
 [<img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
-[<img height="30" src="https://img.shields.io/badge/website-.-black"/>][Personal website]
+[<img height="30" src="https://img.shields.io/badge/website-.-black" />][Personal website]
 
 
 
@@ -82,4 +82,4 @@ You can find the other articles [here](https://linktr.ee/ahn_1305).
 [GeeksforGeeks]: https://auth.geeksforgeeks.org/user/ahnashwin1305/articles
 [stddev community]: https://stddev.pythonanywhere.com
 [Instagram]: https://www.instagram.com/ashwin_jahseh
-
+[Personal website]: https://flow.page/ahn1305
