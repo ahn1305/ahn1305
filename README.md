@@ -20,16 +20,15 @@
 
 
 <h2> Hey People! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<h3> Iam <a href = "https://flow.page/ahn1305">Ashwin.B</a>, Iam a </h3>
+<h3> Iam <a href = "https://flow.page/ahn1305">Ashwin.B</a>, I am a </h3>
 
+* Founder and CEO - InnotechTitans
+* Self-Taught Developer
 * Undergraduate B.TECH CSE Student
-* Self-Made Developer
-* Freelancer
-* currently working on learning full stack web development
-* learning Python and Webdevelopment
-* looking to collaborate on any Django and Flask Projects
-* Ask me about anything, I'll be happy to help.
-* Private repo's - 3 (live site files)
+* Currently trying to explore AI and Cybersecurity
+* learning Python, Web Development
+* looking to collaborate on any Django and Flask Projects or any other worthy projects.
+* Ask me about anything, and I'll be happy to help.
 * Join my [Blog Community](https://stddev.pythonanywhere.com/)
 * Click [here](https://stddev.pythonanywhere.com/about/) to know more about me
 * 😄 Pronouns: He/him
@@ -66,9 +65,8 @@ You can find the more posts in my [Blog](https://thdjangoblog.pythonanywhere.com
 ## My Articles on Medium 🌱
 ### Here are some of those:
 
-- [How to hack chrome’s T-rex game with Java script.](https://ahnashwin1305.medium.com/how-to-hack-chromes-t-rex-game-with-java-script-d4abddc4e2b4)
-- [View saved WiFi Passwords in Ubuntu and Windows](https://ahnashwin1305.medium.com/view-saved-wifi-passwords-in-ubuntu-and-windows-4e3fcec59e66)
-- [Using terminal inside sublime text](https://ahnashwin1305.medium.com/using-terminal-inside-sublime-text-a42859e0c66b)
+- [Shattering the Illusion: The Truth About Motivation](https://medium.com/@ahnashwin1305/you-have-been-lied-all-these-years-8ae194c4b2d2)
+- [Decoding the Crypto Craze: Bitcoin and Blockchain Unveiled in 60 Seconds!](https://medium.com/@ahnashwin1305/decoding-the-crypto-craze-bitcoin-and-blockchain-unveiled-in-60-seconds-c1467cc981ef)
 
 You can find the other articles [here](https://linktr.ee/ahn_1305).
 </td></tr></table>
